@@ -1,4 +1,4 @@
-# ML-PATHER-LARAFI-DM
+# ML-PROJECT-PATHER-LARAFI
 
 2021 - Licence 3 Informatique Groupe 1 
 
@@ -13,7 +13,7 @@
     Email : zakaria.larafi2.etu@univ-lille.fr
 
 
-# Rendu du DM de Modèles Linéaires
+# Sommaire
 
 * [RAPPORT.pdf](RAPPORT.pdf)
 * [src/](src/) :
